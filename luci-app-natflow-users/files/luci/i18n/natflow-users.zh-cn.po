@@ -1,0 +1,224 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "URL Log"
+msgstr "URL 日志"
+
+msgid "Active Users"
+msgstr "活动用户"
+
+msgid "User Access"
+msgstr "用户访问"
+
+msgid "User Access Control"
+msgstr "用户访问控制"
+
+msgid "Traffic Shaping"
+msgstr "流量整形"
+
+msgid "Web Access Control"
+msgstr "网站访问控制"
+
+msgid "RX"
+msgstr "接收"
+
+msgid "TX"
+msgstr "发送"
+
+msgid "IP address"
+msgstr "IP 地址"
+
+msgid "MAC address"
+msgstr "MAC 地址"
+
+msgid "packets"
+msgstr "数据包"
+
+msgid "No information available"
+msgstr "无可用信息"
+
+msgid "Loading data..."
+msgstr "正在加载数据..."
+
+msgid "Allowed"
+msgstr "已放通"
+
+msgid "User IP ranges"
+msgstr "用户 IP 范围"
+
+msgid "Clients in these IP ranges are managed as users."
+msgstr "这些 IP 范围内的客户端将作为用户进行管理。"
+
+msgid "Client IP ranges"
+msgstr "客户端 IP 范围"
+
+msgid "Enter one or more IPv4 or IPv6 addresses, CIDR ranges, or IPv4 address ranges, separated by commas. Example: 192.168.100.0/24,2001:db8::/64,1.2.3.4,172.16.0.100-172.16.0.111"
+msgstr "输入一个或多个 IPv4 或 IPv6 地址、CIDR 网段或 IPv4 地址范围，用逗号分隔。例如：192.168.100.0/24,2001:db8::/64,1.2.3.4,172.16.0.100-172.16.0.111"
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "TCP and UDP"
+msgstr "TCP 和 UDP"
+
+msgid "Grouped traffic shaping rules"
+msgstr "分组流量整形规则"
+
+msgid "Match traffic by protocol, client, remote address, or port. Traffic matching the same rule shares that rule's bandwidth limits. Rules are checked in priority order until one matches."
+msgstr "按协议、客户端、远端地址或端口匹配流量。匹配同一规则的流量共享该规则的带宽限制。规则按优先级顺序检查，直到匹配成功。"
+
+msgid "Client IP"
+msgstr "客户端 IP"
+
+msgid "Client port"
+msgstr "客户端端口"
+
+msgid "Remote IP"
+msgstr "远端 IP"
+
+msgid "Enter one or more remote IPv4 or IPv6 addresses, CIDR ranges, or IPv4 address ranges, separated by commas. Example: 123.123.1.3/29,2001:db8:1::/64"
+msgstr "输入一个或多个远端 IPv4 或 IPv6 地址、CIDR 网段或 IPv4 地址范围，用逗号分隔。例如：123.123.1.3/29,2001:db8:1::/64"
+
+msgid "Remote port"
+msgstr "远端端口"
+
+msgid "Download limit"
+msgstr "下载限制"
+
+msgid "Upload limit"
+msgstr "上传限制"
+
+msgid "Units: <code>Kbps</code>, <code>Mbps</code>, or <code>Gbps</code>. Example: 10Mbps. Use 0 for no limit."
+msgstr "单位：<code>Kbps</code>、<code>Mbps</code> 或 <code>Gbps</code>。例如：10Mbps。填 0 表示不限制。"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Per-client traffic shaping rules"
+msgstr "按客户端流量整形规则"
+
+msgid "Set bandwidth limits for specific client IP addresses or ranges. Each matching client is limited by the rule that matches it."
+msgstr "为指定客户端 IP 地址或范围设置带宽限制。每个匹配的客户端按对应规则进行限速。"
+
+msgid "Control which websites selected clients can access."
+msgstr "控制指定客户端可以访问的网站。"
+
+msgid "Access control rules"
+msgstr "访问控制规则"
+
+msgid "Domains"
+msgstr "域名"
+
+msgid "Domain names to match, separated by commas."
+msgstr "要匹配的域名，用逗号分隔。"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Device Info"
+msgstr "设备信息"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Traffic (RX / TX)"
+msgstr "流量（接收 / 发送）"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Wireless Mesh"
+msgstr "无线 Mesh"
+
+msgid "Wireless"
+msgstr "无线"
+
+msgid "VPN"
+msgstr "VPN"
+
+msgid "Wired"
+msgstr "有线"
+
+msgid "Active now"
+msgstr "当前活跃"
+
+msgid "%s ago"
+msgstr "%s 前"
+
+msgid "Collecting data..."
+msgstr "正在采集数据..."
+
+msgid "Log only"
+msgstr "仅记录"
+
+msgid "Drop"
+msgstr "丢弃"
+
+msgid "Reset connection"
+msgstr "重置连接"
+
+msgid "Redirect"
+msgstr "重定向"
+
+msgid "Client IPv4 addresses"
+msgstr "客户端 IPv4 地址"
+
+msgid "Enter one or more IPv4 addresses, IPv4 CIDR ranges, or IPv4 address ranges, separated by commas. Example: 192.168.100.0/24,1.2.3.4,172.16.0.100-172.16.0.111"
+msgstr "输入一个或多个 IPv4 地址、IPv4 CIDR 网段或 IPv4 地址范围，用逗号分隔。例如：192.168.100.0/24,1.2.3.4,172.16.0.100-172.16.0.111"
+
+msgid "Enter valid IPv4 addresses, IPv4 CIDR ranges, or IPv4 address ranges separated by commas."
+msgstr "请输入有效的 IPv4 地址、IPv4 CIDR 网段或 IPv4 地址范围，并用逗号分隔。"
+
+msgid "Client IPv6 CIDR ranges"
+msgstr "客户端 IPv6 CIDR 网段"
+
+msgid "Enter one or more IPv6 CIDR ranges separated by commas. Example: 2001:db8::/64,fd00::/8"
+msgstr "输入一个或多个 IPv6 CIDR 网段，用逗号分隔。例如：2001:db8::/64,fd00::/8"
+
+msgid "Enter valid IPv6 CIDR ranges separated by commas."
+msgstr "请输入有效的 IPv6 CIDR 网段，并用逗号分隔。"
+
+msgid "Client MAC addresses"
+msgstr "客户端 MAC 地址"
+
+msgid "Enter a valid MAC address. Wildcards are allowed."
+msgstr "请输入有效的 MAC 地址，允许使用通配符。"
+
+msgid "Invalid MAC: %s"
+msgstr "无效的 MAC：%s"
+
+msgid "Unable to load log data: %s"
+msgstr "无法加载日志数据：%s"
+
+msgid "Log data is unavailable"
+msgstr "日志数据不可用"
+
+msgid "Scroll to head"
+msgstr "滚动到顶部"
+
+msgid "Scroll to tail"
+msgstr "滚动到底部"
+
+msgid "Grant UCI access for luci-app-natflow-users"
+msgstr "授予 luci-app-natflow-users 的 UCI 访问权限"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Failed to block user."
+msgstr "封禁用户失败。"
+
+msgid "Failed to block user: %s"
+msgstr "封禁用户失败：%s"
+
+msgid "Failed to allow user."
+msgstr "放通用户失败。"
+
+msgid "Failed to allow user: %s"
+msgstr "放通用户失败：%s"

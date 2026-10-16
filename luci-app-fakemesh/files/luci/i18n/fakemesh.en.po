@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: luci-app-fakemesh\n"
+"PO-Revision-Date: 2026-10-16 00:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Mesh"
+msgstr "Mesh"
+
+msgid "FakeMesh"
+msgstr "FakeMesh"
+
+msgid "FakeMesh Settings"
+msgstr "FakeMesh Settings"
+
+msgid "Configure the FakeMesh overlay network."
+msgstr "Configure the FakeMesh overlay network."
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Mesh ID"
+msgstr "Mesh ID"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "No configured radio supports this backhaul band."
+msgstr "No configured radio supports this backhaul band."
+
+msgid "Leave empty if encryption is not required."
+msgstr "Leave empty if encryption is not required."
+
+msgid "Band"
+msgstr "Band"
+
+msgid "5G"
+msgstr "5G"
+
+msgid "2G"
+msgstr "2G"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Use the gateway router as the controller and all other nodes as agents."
+msgstr "Use the gateway router as the controller and all other nodes as agents."
+
+msgid "Wired AP (Ethernet backhaul)"
+msgstr "Wired AP (Ethernet backhaul)"
+
+msgid "Agent (Wi-Fi backhaul)"
+msgstr "Agent (Wi‑Fi backhaul)"
+
+msgid "Controller (AC)"
+msgstr "Controller (AC)"
+
+msgid "Controller Access IP"
+msgstr "Controller Access IP"
+
+msgid "IP address used to access the controller."
+msgstr "IP address used to access the controller."
+
+msgid "Sync Configuration"
+msgstr "Sync Configuration"
+
+msgid "Sync configuration from the controller."
+msgstr "Sync configuration from the controller."
+
+msgid "Band Steering Helper"
+msgstr "Band Steering Helper"
+
+msgid "None"
+msgstr "None"
+
+msgid "usteer"
+msgstr "usteer"
+
+msgid "DAWN"
+msgstr "DAWN"
+
+msgid "Disable Fronthaul"
+msgstr "Disable Fronthaul"
+
+msgid "Disable this node's fronthaul Wi-Fi so other AP nodes cannot connect through it."
+msgstr "Disable this node's fronthaul Wi‑Fi so other AP nodes cannot connect through it."
+
+msgid "Wireless Management"
+msgstr "Wireless Management"
+
+msgid "Managed by the controller; read-only on AP nodes."
+msgstr "Managed by the controller; read-only on AP nodes."
+
+msgid "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+
+msgid "Encryption"
+msgstr "Encryption"
+
+msgid "No Encryption"
+msgstr "No Encryption"
+
+msgid "WPA-PSK"
+msgstr "WPA-PSK"
+
+msgid "WPA2-PSK"
+msgstr "WPA2-PSK"
+
+msgid "WPA-PSK/WPA2-PSK Mixed Mode"
+msgstr "WPA-PSK/WPA2-PSK Mixed Mode"
+
+msgid "WPA3-SAE"
+msgstr "WPA3-SAE"
+
+msgid "WPA2-PSK/WPA3-SAE Mixed Mode"
+msgstr "WPA2-PSK/WPA3-SAE Mixed Mode"
+
+msgid "2G+5G"
+msgstr "2G+5G"
+
+msgid "2G+5G+6G"
+msgstr "2G+5G+6G"
+
+msgid "5G+6G"
+msgstr "5G+6G"
+
+msgid "6G"
+msgstr "6G"
+
+msgid "Topology"
+msgstr "Topology"
+
+msgid "FakeMesh Network Topology"
+msgstr "FakeMesh Network Topology"
+
+msgid "Visual hierarchy of FakeMesh controller, agent nodes, and connected terminal devices."
+msgstr "Visual hierarchy of FakeMesh controller, agent nodes, and connected terminal devices."
+
+msgid "FakeMesh ID"
+msgstr "FakeMesh ID"
+
+msgid "Not Configured"
+msgstr "Not Configured"
+
+msgid "Wireless Mesh"
+msgstr "Wireless Mesh"
+
+msgid "Cascade Hop"
+msgstr "Cascade Hop"
+
+msgid "Mesh Nodes"
+msgstr "Mesh Nodes"
+
+msgid "Agents"
+msgstr "Agents"
+
+msgid "Total Clients"
+msgstr "Total Clients"
+
+msgid "5G / 2.4G / Wired / VPN"
+msgstr "5G / 2.4G / Wired / VPN"
+
+msgid "VPN"
+msgstr "VPN"
+
+msgid "Wired"
+msgstr "Wired"
+
+msgid "Realtime Traffic"
+msgstr "Realtime Traffic"
+
+msgid "Search by Hostname, IP, MAC..."
+msgstr "Search by Hostname, IP, MAC..."
+
+msgid "All Clients"
+msgstr "All Clients"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Node Details"
+msgstr "Node Details"
+
+msgid "Client Details"
+msgstr "Client Details"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "MAC Address"
+msgstr "MAC Address"
+
+msgid "Hardware Model"
+msgstr "Hardware Model"
+
+msgid "Uptime"
+msgstr "Uptime"
+
+msgid "Backhaul Link"
+msgstr "Backhaul Link"
+
+msgid "Wired Ethernet"
+msgstr "Wired Ethernet"
+
+msgid "Root Gateway"
+msgstr "Root Gateway"
+
+msgid "Mesh BSSID"
+msgstr "Mesh BSSID"
+
+msgid "Open Web Admin"
+msgstr "Open Web Admin"
+
+msgid "Device Name"
+msgstr "Device Name"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Connected Node"
+msgstr "Connected Node"
+
+msgid "Access Mode"
+msgstr "Access Mode"
+
+msgid "Wi-Fi Signal"
+msgstr "Wi‑Fi Signal"
+
+msgid "PHY Rate"
+msgstr "PHY Rate"
+
+msgid "Realtime Speed"
+msgstr "Realtime Speed"
+
+msgid "Total Traffic"
+msgstr "Total Traffic"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Devices"
+msgstr "Devices"
+
+msgid "Manage"
+msgstr "Manage"
+
+msgid "Hop Cascade Nodes"
+msgstr "Hop Cascade Nodes"
+
+msgid "Sub-nodes"
+msgstr "Sub-nodes"
+
+msgid "No matching devices"
+msgstr "No matching devices"
+
+msgid "No FakeMesh nodes detected. Please verify FakeMesh configuration."
+msgstr "No FakeMesh nodes detected. Please verify FakeMesh configuration."
+
+msgid "Internet Gateway"
+msgstr "Internet Gateway"
+
+msgid "Backhaul Links"
+msgstr "Backhaul Links"
+
+msgid "Single Gateway"
+msgstr "Single Gateway"
+
+msgid "Wired AP"
+msgstr "Wired AP"
+
+msgid "Cascade Hops"
+msgstr "Cascade Hops"
+
+msgid "Mesh Connected"
+msgstr "Mesh Connected"
+
+msgid "Primary"
+msgstr "Primary"
+
+msgid "IPv6 Addresses"
+msgstr "IPv6 Addresses"
+
+msgid "IPv4 Addresses"
+msgstr "IPv4 Addresses"
+
+msgid "Minimap View"
+msgstr "Minimap View"
+
+msgid "Expanded View"
+msgstr "Expanded View"
+
+msgid "Upstream Node"
+msgstr "Upstream Node"
+
+msgid "Node Details & Connected Devices"
+msgstr "Node Details & Connected Devices"
+
+msgid "Connected Devices on this Node"
+msgstr "Connected Devices on this Node"
+
+msgid "Click any node to zoom in and inspect connected terminals"
+msgstr "Click any node to zoom in and inspect connected terminals"
+
+msgid "No terminal devices currently connected to this node."
+msgstr "No terminal devices currently connected to this node."
+
+msgid "View Full Node Specs"
+msgstr "View Full Node Specs"
+
+msgid "Currently Selected"
+msgstr "Currently Selected"
+
+msgid "Upstream"
+msgstr "Upstream"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Model"
+msgstr "Model"
+
+msgid "Click to Inspect"
+msgstr "Click to Inspect"
+
+msgid "Click any node in minimap above to switch inspection"
+msgstr "Click any node in minimap above to switch inspection"
+
+msgid "Click to inspect upstream node"
+msgstr "Click to inspect upstream node"
+
+msgid "Role & Status"
+msgstr "Role & Status"
+
+msgid "Click any client to view deep details"
+msgstr "Click any client to view deep details"
+
+msgid "Agent Node"
+msgstr "Agent Node"
+
+msgid "Root Node"
+msgstr "Root Node"
+
+msgid "Hop %d"
+msgstr "Hop %d"
+
+msgid "This Device"
+msgstr "This Device"
+
+msgid "Current Device (This Node)"
+msgstr "Current Device (This Node)"
+
+msgid "Local Device"
+msgstr "Local Device"
+
+msgid "Last Active"
+msgstr "Last Active"
+
+msgid "Just now"
+msgstr "Just now"
+
+msgid "%d seconds ago"
+msgstr "%d seconds ago"
+
+msgid "%dm %ds ago"
+msgstr "%dm %ds ago"
+
+msgid "%d minutes ago"
+msgstr "%d minutes ago"
+
+msgid "%dh %dm ago"
+msgstr "%dh %dm ago"
+
+msgid "%d hours ago"
+msgstr "%d hours ago"
+
+msgid "%dd %dh ago"
+msgstr "%dd %dh ago"
+
+msgid "%d days ago"
+msgstr "%d days ago"
